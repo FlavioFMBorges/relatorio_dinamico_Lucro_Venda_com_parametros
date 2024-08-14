@@ -1,4 +1,4 @@
-# Relatorio dinamico Lucro/Venda com parametros  
+# Relatorio dinamico Lucro/Venda com parâmetros  
 Relatórios Dinâmicos com o uso de Parâmetros no Power BI  
 
 Foi incluído o arquivo .pbix. Estes Relatórios feitos com Power Bi tendo botões de navegação que mudam de gráficos para melhor experiência do usuário. Estes relatórios serão apresentados também no You Tube no canal [Canal @flavioborges5941 do youtube](https://www.youtube.com/@flavioborges5941). Se passar por lá, aproveita se inscreva e deixe um joinha.  
